@@ -1,0 +1,6 @@
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path name="shared" path="." />
+    <files-path name="private" path="." />
+    <cache-path name="cache" path="." />
+    <external-files-path name="app_external" path="." />
+</paths>
